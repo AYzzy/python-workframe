@@ -1,18 +1,18 @@
 import unittest
 
-class Phonebook_test(unittest.TestCase):
+
+class Phonebook(unittest.TestCase):
     def __init__(self):
         self.contacts = {}
 
     def add_contact(self, name, number):
         self.contacts[name] = number
 
-    def get_number(self, name):
-        return self.contacts.get(name, None)
 
-    def delete_contact(self, name):
-        if name in self.contacts:
-            del self.contacts[name]
+    def get_number(self, name):
+        def delete_contact(self, name):
+            if name in self.contacts:
+                del self.contacts[name]
 
     class TestPhoneBook(unittest.TestCase):
         def setUp(self):
