@@ -24,14 +24,14 @@ def get_product_of_third_element(numbers):
 
 
 def get_average(numbers):
-    total =0
+    total = 0
     for number in numbers:
         total += numbers
         average = total / get_total(numbers)
     return average
 
 
-# def sumz(numbers);
+# def sumz(numbers);m
 #     total = 0
 #     for num in numz:
 #         total+=numz

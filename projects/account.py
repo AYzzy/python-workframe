@@ -17,3 +17,5 @@ a1 = Account("John", Decimal(500))
 print(a1.balance)
 a1.deposit = 1000
 print(a1.balance)
+
+

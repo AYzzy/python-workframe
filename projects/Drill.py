@@ -11,14 +11,14 @@
 # print('Sum of even',sumEven,'and odd',sumOdd)
 #
 try:
-    numbers=int(input('Enter a number: '))
-    sum_even = (list(range(0,numbers))[::2])
+    numbers = int(input('Enter a number: '))
+    sum_even = (list(range(0, numbers))[::2])
     print(sum_even)
     sum_even_num = sum(sum_even)
     print(sum_even_num)
-    sum_odd = (list(range(0,numbers))[1::2])
+    sum_odd = (list(range(0, numbers))[1::2])
     print(sum_odd)
     sum_odd_number = sum(sum_odd)
     print(sum_odd_number)
-except(ValueError, TypeError) :
+except(ValueError, TypeError):
     print("invalid input")

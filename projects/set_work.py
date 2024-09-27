@@ -22,4 +22,7 @@ def removal_of_duplicate_of_list():
             opened_list.append(i)
     return opened_list
 
-
+if __name__ == '__main__':
+    print(duplicate_of_list())
+    print(length_of_list())
+    print(removal_of_duplicate_of_list())

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="988b5bec-b272-41af-b098-af6532af84a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="988b5bec-b272-41af-b098-af6532af84a1" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -26,135 +25,245 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2bo7ACAP9UZ1a3WzJvL9ItgN6bI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_phonebook.Phonebook_test.TestPhoneBook.executor": "Run",
-    "Python tests.Python tests for test_phonebook.phonebook_test.TestPhoneBook.executor": "Run",
-    "Python tests.Python tests for test_phonebook.phonebook_test.executor": "Run",
-    "Python tests.Python tests for test_play_ground.TestListFunction.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_average.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_largest_element.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_lenght_of_list.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_product_of_third_element.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_smallest_element.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_sum_of_even_numbers.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_sum_of_odd_numbers.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_total_of_list.executor": "Run",
-    "Python tests.Python tests for test_playground.TestListFunction.test_that_function_returns_list_of_string.executor": "Run",
-    "Python tests.Python tests in Task_one_test.py.executor": "Run",
-    "Python.Task_one.executor": "Run",
-    "Python.Task_one_test.executor": "Run",
-    "Python.test_drill.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Test.TestIntegerNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestIntegerNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bank_test.TestBankApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bank_test.TestBankApp.test_to_deposit_to_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bank_test.TestBankApp.test_to_register_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bank_test.TestBankApp.test_to_register_more_than_one_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bank_test.TestBankApp.test_to_withdraw_from_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bank_test.TestBankApp.test_to_withdraw_with_above_balance.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for phonebook_test.Phonebook.TestPhoneBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for phonebook_test.Phonebook.TestPhoneBook.test_add_contact.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for phonebook_test.Phonebook.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for phonebook_test.Phonebook_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_account_as_zero_balance.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_check_balance_with_wrong_pin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_on_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_to_check_balance.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_to_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_to_deposit_a_negative_amount_in_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_to_deposit_in_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_to_deposit_twice_in_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_to_withdraw_in_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_withdraw_amount_above_balance.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_withdraw_amount_bellow_balance.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_withdraw_amount_twice_one_correct_and_one_wrong_pin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Account.TestAccount.test_withdraw_in_account_twice.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_BankApp.TestBankApp.test_that_the_bank_app_can_be_initialized.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_BankApp.test_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_that_diary_is_locked.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_that_diary_is_unlocked.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_to_create_a_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_to_create_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_to_delete_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_to_delete_diary_with_invalid_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_to_find_diary_.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.TestDiary.test_to_update_diary_.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.test_create_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.test_delete_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.test_diary_is_locked.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.test_find_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Diary.test_initialization.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Logic.TestLogic.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Logic.TestLogic.test_logics.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Logic.TestLogic.test_logics_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Logic.TestLogic.test_logics_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_SetWork.TestSetWork.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_SetWork.TestSetWork.test_element_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_SetWork.TestSetWork.test_set_work.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_SetWork.test_element_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_phonebook.Phonebook_test.TestPhoneBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_phonebook.phonebook_test.TestPhoneBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_phonebook.phonebook_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_phonebook.test_phonebook.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_play_ground.TestListFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_average.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_largest_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_lenght_of_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_product_of_third_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_smallest_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_sum_of_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_sum_of_odd_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_total_of_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground.TestListFunction.test_that_function_returns_list_of_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_segment.TestSegment.test_segment.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sentence.test_count_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_set_work.test_element_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_set_work.test_for_duplicate_of_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_set_work.test_for_length_of_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_set_work.test_removal_of_duplicate_of_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_swap.test_remove_the_third_index_from_new_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_swap.test_swap.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_swap.test_swap_the_last_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_swap.test_swap_the_last_index_from_first_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_swap.test_swap_the_last_index_from_second_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for testtest.TestIntegerNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for testtest.TestIntegerNumbers.test_integer_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Task_one_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Diary.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Logic.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_segment.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sentence.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Account2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BankApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drillone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Driltwo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HundredLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HundredLoopWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_one_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bankApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bankapp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bankapp2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.diary_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drillthree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.human.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quetion13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.segment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sentenceDrill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_drill.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/TestDrill/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\TestDrill\tic_tac_toe" />
       <recent name="C:\Users\DELL\PycharmProjects\TestDrill\projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_phonebook.Phonebook_test.TestPhoneBook">
-    <configuration name="Python tests for test_phonebook.Phonebook_test.TestPhoneBook" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sentence">
+    <configuration name="sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestDrill" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/drills" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/drills/sentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Account.TestAccount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="TestDrill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/BankApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_phonebook.Phonebook_test.TestPhoneBook&quot;" />
+      <option name="_new_target" value="&quot;test_Account.TestAccount&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_phonebook.phonebook_test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Account.TestAccount.test_to_check_balance" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="TestDrill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/BankApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_phonebook.phonebook_test&quot;" />
+      <option name="_new_target" value="&quot;test_Account.TestAccount.test_to_check_balance&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_phonebook.phonebook_test.TestPhoneBook" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Account.TestAccount.test_to_withdraw_in_account" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="TestDrill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/BankApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_phonebook.phonebook_test.TestPhoneBook&quot;" />
+      <option name="_new_target" value="&quot;test_Account.TestAccount.test_to_withdraw_in_account&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_playground.TestListFunction" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Account.TestAccount.test_withdraw_amount_above_balance" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="TestDrill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/BankApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_playground.TestListFunction&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_playground.TestListFunction.test_that_function_return_average" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="TestDrill" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_playground.TestListFunction.test_that_function_return_average&quot;" />
+      <option name="_new_target" value="&quot;test_Account.TestAccount.test_withdraw_amount_above_balance&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_phonebook.Phonebook_test.TestPhoneBook" />
-        <item itemvalue="Python tests.Python tests for test_phonebook.phonebook_test.TestPhoneBook" />
-        <item itemvalue="Python tests.Python tests for test_phonebook.phonebook_test" />
-        <item itemvalue="Python tests.Python tests for test_playground.TestListFunction.test_that_function_return_average" />
-        <item itemvalue="Python tests.Python tests for test_playground.TestListFunction" />
+        <item itemvalue="Python.sentence" />
+        <item itemvalue="Python tests.Python tests for test_Account.TestAccount" />
+        <item itemvalue="Python tests.Python tests for test_Account.TestAccount.test_withdraw_amount_above_balance" />
+        <item itemvalue="Python tests.Python tests for test_Account.TestAccount.test_to_check_balance" />
+        <item itemvalue="Python tests.Python tests for test_Account.TestAccount.test_to_withdraw_in_account" />
       </list>
     </recent_temporary>
   </component>
@@ -177,17 +286,127 @@
       <workItem from="1707036357096" duration="1506000" />
       <workItem from="1707121307621" duration="584000" />
       <workItem from="1707170614767" duration="196000" />
-      <workItem from="1707181006056" duration="5808000" />
+      <workItem from="1707181006056" duration="6294000" />
+      <workItem from="1707225087504" duration="2350000" />
+      <workItem from="1707257338604" duration="2013000" />
+      <workItem from="1707724826485" duration="2039000" />
+      <workItem from="1707770973744" duration="10353000" />
+      <workItem from="1707783392679" duration="16319000" />
+      <workItem from="1707843237761" duration="1885000" />
+      <workItem from="1708075361521" duration="5506000" />
+      <workItem from="1708095118171" duration="669000" />
+      <workItem from="1708097742936" duration="5248000" />
+      <workItem from="1708319805090" duration="3737000" />
+      <workItem from="1708329311966" duration="1393000" />
+      <workItem from="1708504786021" duration="2429000" />
+      <workItem from="1708639011278" duration="2338000" />
+      <workItem from="1708643320579" duration="4733000" />
+      <workItem from="1708670416319" duration="2603000" />
+      <workItem from="1708892486241" duration="1378000" />
+      <workItem from="1709073333367" duration="594000" />
+      <workItem from="1709106308306" duration="1137000" />
+      <workItem from="1709107734961" duration="29201000" />
+      <workItem from="1709187539385" duration="5916000" />
+      <workItem from="1709248721140" duration="1548000" />
+      <workItem from="1709254968725" duration="17834000" />
+      <workItem from="1709283056811" duration="7150000" />
+      <workItem from="1709423523729" duration="6150000" />
+      <workItem from="1709539179539" duration="4720000" />
+      <workItem from="1709544207436" duration="6972000" />
+      <workItem from="1709555913547" duration="10418000" />
+      <workItem from="1709587961717" duration="938000" />
+      <workItem from="1709589006517" duration="12901000" />
+      <workItem from="1709668709368" duration="1157000" />
+      <workItem from="1709699464902" duration="1193000" />
+      <workItem from="1709701332750" duration="493000" />
+      <workItem from="1709702674144" duration="3243000" />
+      <workItem from="1709754554313" duration="1300000" />
+      <workItem from="1709765855301" duration="5844000" />
+      <workItem from="1710023334996" duration="595000" />
+      <workItem from="1710028224033" duration="610000" />
+      <workItem from="1710163666436" duration="1172000" />
+      <workItem from="1710179951063" duration="9767000" />
+      <workItem from="1710219893659" duration="10999000" />
+      <workItem from="1710244702513" duration="8644000" />
+      <workItem from="1710295950850" duration="8181000" />
+      <workItem from="1710315687967" duration="1456000" />
+      <workItem from="1710368323585" duration="698000" />
+      <workItem from="1710924303334" duration="886000" />
+      <workItem from="1711095959298" duration="597000" />
+      <workItem from="1711107073420" duration="1209000" />
+      <workItem from="1724145292990" duration="3559000" />
+      <workItem from="1724160212176" duration="2513000" />
+      <workItem from="1724401699497" duration="609000" />
+      <workItem from="1725614568606" duration="1380000" />
+      <workItem from="1725616194485" duration="2138000" />
+      <workItem from="1725881164481" duration="241000" />
+      <workItem from="1726151510206" duration="465000" />
+      <workItem from="1726650569508" duration="698000" />
+      <workItem from="1726653758322" duration="1182000" />
+      <workItem from="1727432525660" duration="1924000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1708670092699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708670092699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestDrill$Account2.coverage" NAME="Account2 Coverage Results" MODIFIED="1708642335617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestDrill$swap.coverage" NAME="swap Coverage Results" MODIFIED="1707852352710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$question5.coverage" NAME="question5 Coverage Results" MODIFIED="1708319977349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/chapter4" />
+    <SUITE FILE_PATH="coverage/TestDrill$account.coverage" NAME="account Coverage Results" MODIFIED="1710253462291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/BankApp" />
+    <SUITE FILE_PATH="coverage/TestDrill$sentenceDrill.coverage" NAME="sentenceDrill Coverage Results" MODIFIED="1709544477851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
+    <SUITE FILE_PATH="coverage/TestDrill$bankApp.coverage" NAME="bankApp Coverage Results" MODIFIED="1709564974929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/BankApp" />
+    <SUITE FILE_PATH="coverage/TestDrill$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1709289354264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
+    <SUITE FILE_PATH="coverage/TestDrill$set_work.coverage" NAME="set_work Coverage Results" MODIFIED="1710924587794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$bankapp2.coverage" NAME="bankapp2 Coverage Results" MODIFIED="1709755330858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/BankApp" />
+    <SUITE FILE_PATH="coverage/TestDrill$bankapp.coverage" NAME="bankapp Coverage Results" MODIFIED="1710368420750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/BankApp" />
+    <SUITE FILE_PATH="coverage/TestDrill$playground.coverage" NAME="playground Coverage Results" MODIFIED="1709704006772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$sentence.coverage" NAME="sentence Coverage Results" MODIFIED="1727433040170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
+    <SUITE FILE_PATH="coverage/TestDrill$Drill.coverage" NAME="Drill Coverage Results" MODIFIED="1709819189584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$Drillone.coverage" NAME="Drillone Coverage Results" MODIFIED="1708104016255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
     <SUITE FILE_PATH="coverage/TestDrill$Task_one_test.coverage" NAME="Task_one_test Coverage Results" MODIFIED="1706870289309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/TestDrill$test_drill.coverage" NAME="test_drill Coverage Results" MODIFIED="1706869698150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestDrill$.coverage" NAME=" Coverage Results" MODIFIED="1707200827438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$String_Method.coverage" NAME="String_Method Coverage Results" MODIFIED="1709115532101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
+    <SUITE FILE_PATH="coverage/TestDrill$diary_app.coverage" NAME="diary_app Coverage Results" MODIFIED="1710319990545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DIARY" />
+    <SUITE FILE_PATH="coverage/TestDrill$drillthree.coverage" NAME="drillthree Coverage Results" MODIFIED="1708104568874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
+    <SUITE FILE_PATH="coverage/TestDrill$question10.coverage" NAME="question10 Coverage Results" MODIFIED="1708321876529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/chapter4" />
+    <SUITE FILE_PATH="coverage/TestDrill$examples.coverage" NAME="examples Coverage Results" MODIFIED="1707739557302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$HundredLoopWhile.coverage" NAME="HundredLoopWhile Coverage Results" MODIFIED="1708105619622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$Diary.coverage" NAME="Diary Coverage Results" MODIFIED="1710303294713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DIARY" />
+    <SUITE FILE_PATH="coverage/TestDrill$human.coverage" NAME="human Coverage Results" MODIFIED="1707838420125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$question14.coverage" NAME="question14 Coverage Results" MODIFIED="1708505183633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/chapter4" />
+    <SUITE FILE_PATH="coverage/TestDrill$BankApp.coverage" NAME="BankApp Coverage Results" MODIFIED="1709668872044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/BankApp" />
+    <SUITE FILE_PATH="coverage/TestDrill$segment.coverage" NAME="segment Coverage Results" MODIFIED="1727432824650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/sevensegment" />
     <SUITE FILE_PATH="coverage/TestDrill$Task_one.coverage" NAME="Task_one Coverage Results" MODIFIED="1706877462044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects" />
+    <SUITE FILE_PATH="coverage/TestDrill$quetion13.coverage" NAME="quetion13 Coverage Results" MODIFIED="1708321764418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/chapter4" />
+    <SUITE FILE_PATH="coverage/TestDrill$HundredLoop.coverage" NAME="HundredLoop Coverage Results" MODIFIED="1708104655633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestDrill$test_drill.coverage" NAME="test_drill Coverage Results" MODIFIED="1706869698150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestDrill$question8.coverage" NAME="question8 Coverage Results" MODIFIED="1708320543678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/chapter4" />
+    <SUITE FILE_PATH="coverage/TestDrill$.coverage" NAME=" Coverage Results" MODIFIED="1725615444466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/BankApp" />
+    <SUITE FILE_PATH="coverage/TestDrill$Driltwo.coverage" NAME="Driltwo Coverage Results" MODIFIED="1708104105965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/drills" />
   </component>
 </project>
